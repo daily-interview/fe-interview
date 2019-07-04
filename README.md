@@ -10,12 +10,8 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**、感谢**watch**！
 > 每天坚持学习，才能遇见更好的自己！
 
-## 今日面试题
+## 今天的面试题 —— 第1天
 
-2019-07-04
+- [js] [介绍一下 JS 的基本数据类型。](https://github.com/daily-interview/fe-interview/issues/1)
 
-> 第 1 题：介绍一下 JS 的基本数据类型
-
-解析：[第 1 题](https://github.com/daily-interview/fe-interview/issues/1)
-
-<br/>
+> 欢迎在 [**Issues**](https://github.com/daily-interview/fe-interview/issues) 和朋友们一同讨论学习！
