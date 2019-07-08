@@ -1,5 +1,11 @@
 # fe-interview
 
+[![Read the Docs](https://img.shields.io/readthedocs/pip/stable.svg)](https://github.com/daily-interview/fe-interview/blob/master/README.md)
+[![mnt-image](https://img.shields.io/maintenance/yes/2019.svg)](../../commits/master)
+[![GitHub stars](https://img.shields.io/github/stars/daily-interview/fe-interview.svg)](https://github.com/daily-interview/fe-interview/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/daily-interview/fe-interview.svg)](https://github.com/daily-interview/fe-interview/network)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/daily-interview/fe-interview/blob/master/LICENSE)
+
 不积跬步，无以至千里，不积小流，无以成江海。 ——— 荀子 《劝学》
 
 ---
