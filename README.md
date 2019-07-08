@@ -16,7 +16,7 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**、感谢**watch**！
 > 每天坚持学习，才能遇见更好的自己！
 
-## 今天的面试题 —— 第2天
+## 今天的面试题 —— 第3天
 
 - [css] [有哪几种常用的清除浮动方法？](https://github.com/daily-interview/fe-interview/issues/3)
 
