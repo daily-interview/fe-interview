@@ -16,9 +16,9 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**、感谢**watch**！
 > 每天坚持学习，才能遇见更好的自己！
 
-## 今日面试题 —— 第5天  
+## 今日面试题 —— 第6天   
 
-- [js] [promise和setTimeout执行顺序是怎样的？](https://github.com/daily-interview/fe-interview/issues/5)
+- [ts] [说一说Typescript中的泛型的作用及使用场景。](https://github.com/daily-interview/fe-interview/issues/6)
 
 > 欢迎在 [**Issues**](https://github.com/daily-interview/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -31,3 +31,5 @@
 - [css] [有哪几种常用的清除浮动方法？](https://github.com/daily-interview/fe-interview/issues/3)
 
 - [js] [Object.assign 是浅拷贝还是深拷贝？实现深拷贝的方法有哪些？](https://github.com/daily-interview/fe-interview/issues/4)
+
+- [js] [promise和setTimeout执行顺序是怎样的？](https://github.com/daily-interview/fe-interview/issues/5)
