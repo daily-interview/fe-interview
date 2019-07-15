@@ -16,9 +16,9 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**、感谢**watch**！
 > 每天坚持学习，才能遇见更好的自己！
 
-## 今日面试题 —— 第7天    
+## 今日面试题 —— 第8天    
 
-- [http] [说说你对http和https的理解](https://github.com/daily-interview/fe-interview/issues/7)
+- [js] [说说你对 Promise 的理解](https://github.com/daily-interview/fe-interview/issues/8)
 
 > 欢迎在 [**Issues**](https://github.com/daily-interview/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -35,3 +35,5 @@
 - [js] [promise和setTimeout执行顺序是怎样的？](https://github.com/daily-interview/fe-interview/issues/5)
 
 - [ts] [说一说Typescript中的泛型的作用及使用场景。](https://github.com/daily-interview/fe-interview/issues/6)
+
+- [http] [说说你对http和https的理解](https://github.com/daily-interview/fe-interview/issues/7)
