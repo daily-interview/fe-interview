@@ -18,7 +18,7 @@
 
 ## 今日面试题 —— 第8天    
 
-- [js] [说说你对 Promise 的理解](https://github.com/daily-interview/fe-interview/issues/8)
+- [js] [说一下对bind，call，apply三个函数的认识，自己实现一下bind方法](https://github.com/daily-interview/fe-interview/issues/9)
 
 > 欢迎在 [**Issues**](https://github.com/daily-interview/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -37,3 +37,5 @@
 - [ts] [说一说Typescript中的泛型的作用及使用场景。](https://github.com/daily-interview/fe-interview/issues/6)
 
 - [http] [说说你对http和https的理解](https://github.com/daily-interview/fe-interview/issues/7)
+
+- [js] [说说你对 Promise 的理解](https://github.com/daily-interview/fe-interview/issues/8)
