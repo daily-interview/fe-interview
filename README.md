@@ -18,7 +18,7 @@
 
 ## 今日面试题 —— 第11天    
 
-- [js] [什么是函数节流和函数防抖？应用场景是怎么样的？](https://github.com/daily-interview/fe-interview/issues/11)
+- [css] [css中position属性值有哪些？各有什么特点。](https://github.com/daily-interview/fe-interview/issues/12)
 
 > 欢迎在 [**Issues**](https://github.com/daily-interview/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -43,3 +43,6 @@
 - [js] [说一下对bind，call，apply三个函数的认识，自己实现一下bind方法](https://github.com/daily-interview/fe-interview/issues/9)
 
 - [css] [说说对 BFC（Block formatting contexts） 的理解](https://github.com/daily-interview/fe-interview/issues/10)
+
+- [js] [什么是函数节流和函数防抖？应用场景是怎么样的？](https://github.com/daily-interview/fe-interview/issues/11)
+
