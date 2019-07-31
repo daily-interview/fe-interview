@@ -16,9 +16,9 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**、感谢**watch**！
 > 每天坚持学习，才能遇见更好的自己！
 
-## 今日面试题 —— 第16天   
+## 今日面试题 —— 第17天   
 
-- [js] [了解js闭包吗？谈谈你对js闭包的理解。](https://github.com/daily-interview/fe-interview/issues/16)
+- [js] [用过nginx吗？nginx负载均衡如何实现？](https://github.com/daily-interview/fe-interview/issues/17)
 
 > 欢迎在 [**Issues**](https://github.com/daily-interview/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -54,3 +54,4 @@
 
 - [http] [什么是强缓存和协商缓存](https://github.com/daily-interview/fe-interview/issues/15)
 
+- [js] [了解js闭包吗？谈谈你对js闭包的理解。](https://github.com/daily-interview/fe-interview/issues/16)
