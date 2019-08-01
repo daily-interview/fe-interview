@@ -56,5 +56,5 @@
 
 - [js] [了解js闭包吗？谈谈你对js闭包的理解。](https://github.com/daily-interview/fe-interview/issues/16)
 
-- [js] [用过nginx吗？nginx负载均衡如何实现？](https://github.com/daily-interview/fe-interview/issues/17)
+- [node] [用过nginx吗？nginx负载均衡如何实现？](https://github.com/daily-interview/fe-interview/issues/17)
 
