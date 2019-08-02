@@ -58,5 +58,4 @@
 
 - [node] [用过nginx吗？nginx负载均衡如何实现？](https://github.com/daily-interview/fe-interview/issues/17)
 
-- [h5] [如果图片加载失败，如何做统一处理及优化？](https://github.com/daily-interview/fe-interview/issues/19)
-
+- [h5] [如果图片加载失败，如何做统一处理及优化？](https://github.com/daily-interview/fe-interview/issues/18)
