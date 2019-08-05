@@ -16,9 +16,9 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**、感谢**watch**！
 > 每天坚持学习，才能遇见更好的自己！
 
-## 今日面试题 —— 第19天   从输入URL到页面加载发生了什么？
+## 今日面试题 —— 第20天   
 
-- [从输入URL到页面加载发生了什么？](https://github.com/daily-interview/fe-interview/issues/19)
+- [css] [resetting 和 normalizing 之间有什么区别？](https://github.com/daily-interview/fe-interview/issues/20)
 
 > 欢迎在 [**Issues**](https://github.com/daily-interview/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -44,18 +44,7 @@
 
 - [css] [说说对 BFC（Block formatting contexts） 的理解](https://github.com/daily-interview/fe-interview/issues/10)
 
-- [js] [什么是函数节流和函数防抖？应用场景是怎么样的？](https://github.com/daily-interview/fe-interview/issues/11)
+......
 
-- [css] [css中position属性值有哪些？各有什么特点。](https://github.com/daily-interview/fe-interview/issues/12)
+- [从输入URL到页面加载发生了什么？](https://github.com/daily-interview/fe-interview/issues/19)
 
-- [js] [谈一谈你对this指针的理解](https://github.com/daily-interview/fe-interview/issues/13)
-
-- [你遇到过跨域问题吗？跨域请求资源的方式有哪些？](https://github.com/daily-interview/fe-interview/issues/14)
-
-- [http] [什么是强缓存和协商缓存](https://github.com/daily-interview/fe-interview/issues/15)
-
-- [js] [了解js闭包吗？谈谈你对js闭包的理解。](https://github.com/daily-interview/fe-interview/issues/16)
-
-- [node] [用过nginx吗？nginx负载均衡如何实现？](https://github.com/daily-interview/fe-interview/issues/17)
-
-- [h5] [如果图片加载失败，如何做统一处理及优化？](https://github.com/daily-interview/fe-interview/issues/18)
