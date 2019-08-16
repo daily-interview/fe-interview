@@ -15,6 +15,16 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**、感谢**watch**！
 > 每天坚持学习，才能遇见更好的自己！
 
+## 来了就留个 :feet:吧，star一下证明你来过  :stuck_out_tongue_closed_eyes:
+
+>  如果对您对此项目有兴趣，可以点 "Star" 支持一下 谢谢！ ^_^
+
+>  如有问题请直接在 Issues 中参与讨论，欢迎 PR 👍
+
+>  传送门1：[vue2-admin-grace优雅的后台管理系统](https://github.com/artdong/vue-admin)
+
+>  传送门2：[ionic3自定义组件及常用例子](https://github.com/artdong/ionic3-awesome)
+
 ## 今日面试题 —— 第26天   
 
 - [css] [介绍一下css盒子模型](https://github.com/daily-interview/fe-interview/issues/26)
@@ -50,4 +60,12 @@
 - [js] [js栈内存和堆内存的区别](https://github.com/daily-interview/fe-interview/issues/24)
 
 - [css] [css中@import和link有什么区别？](https://github.com/daily-interview/fe-interview/issues/25)
+
+---
+
+#### 欢迎关注微信公众号`全栈弄潮儿` ，获取更多学习资源及技术文章等
+
+* 微信公众号二维码，扫一扫或者搜索"全栈弄潮儿"即可关注
+
+<img src="https://upload-images.jianshu.io/upload_images/3100736-b722d7d753e6eaf9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="260px" style="display:inline;">
 
