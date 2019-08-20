@@ -68,5 +68,6 @@
 
 * 微信公众号二维码，扫一扫或者搜索"全栈弄潮儿"即可关注
 
-<img src="https://upload-images.jianshu.io/upload_images/3100736-b722d7d753e6eaf9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="260px" style="display:inline;">
-
+<p align='center'>
+<img src='https://upload-images.jianshu.io/upload_images/3100736-b722d7d753e6eaf9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' width='280' alt='Build errors'>
+</p>
