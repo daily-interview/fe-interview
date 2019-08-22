@@ -26,7 +26,7 @@
 
 ## 今日面试题 —— 第29天   
 
-- [js] [谈谈你对原型链的理解？](https://github.com/daily-interview/fe-interview/issues/29)
+- [js] [如何判断是否是数组？](https://github.com/daily-interview/fe-interview/issues/30)
 
 > 欢迎在 [**Issues**](https://github.com/daily-interview/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -54,11 +54,11 @@
 
 ......
 
-- [css] [介绍一下css盒子模型](https://github.com/daily-interview/fe-interview/issues/26)
-
 - [css] [如何实现一个loading动画效果](https://github.com/daily-interview/fe-interview/issues/27)
 
 - [js] [js垃圾回收机制与如何手动进行垃圾回收释放内存？](https://github.com/daily-interview/fe-interview/issues/28)
+
+- [js] [谈谈你对原型链的理解？](https://github.com/daily-interview/fe-interview/issues/29)
 
 ---
 
