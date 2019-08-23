@@ -24,9 +24,9 @@
 
 >  传送门2：[ionic3自定义组件及常用例子](https://github.com/artdong/ionic3-awesome)
 
-## 今日面试题 —— 第29天   
+## 今日面试题 —— 第30天   
 
-- [js] [如何判断是否是数组？](https://github.com/daily-interview/fe-interview/issues/30)
+- [js] [let和var在for循环中有什么不同？](https://github.com/daily-interview/fe-interview/issues/31)
 
 > 欢迎在 [**Issues**](https://github.com/daily-interview/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -59,6 +59,8 @@
 - [js] [js垃圾回收机制与如何手动进行垃圾回收释放内存？](https://github.com/daily-interview/fe-interview/issues/28)
 
 - [js] [谈谈你对原型链的理解？](https://github.com/daily-interview/fe-interview/issues/29)
+
+- [js] [如何判断是否是数组？](https://github.com/daily-interview/fe-interview/issues/30)
 
 ---
 
