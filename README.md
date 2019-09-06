@@ -24,10 +24,9 @@
 
 >  传送门2：[ionic3自定义组件及常用例子](https://github.com/artdong/ionic3-awesome)
 
-## 今日面试题 —— 第38天 
+## 今日面试题 —— 第39天 redux的工作流程是怎样的?
 
-
-- [react] [react组件通信如何实现?](https://github.com/daily-interview/fe-interview/issues/39)
+- [react] [redux的工作流程是怎样的?](https://github.com/daily-interview/fe-interview/issues/40)
 
 > 欢迎在 [**Issues**](https://github.com/daily-interview/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -55,8 +54,6 @@
 
 ......
 
-- [js] [如何让const定义的对象真正不可修改？](https://github.com/daily-interview/fe-interview/issues/34)
-
 - [js] [ES6模块与CommonJS模块有什么区别？](https://github.com/daily-interview/fe-interview/issues/35)
 
 - [react] [介绍一下React生命周期?](https://github.com/daily-interview/fe-interview/issues/36)
@@ -64,6 +61,8 @@
 - [react] [React的请求应该放在哪个生命周期中?](https://github.com/daily-interview/fe-interview/issues/37)
 
 - [react] [setState到底是异步还是同步？](https://github.com/daily-interview/fe-interview/issues/38)
+
+- [react] [react组件通信如何实现?](https://github.com/daily-interview/fe-interview/issues/39)
 
 ---
 
