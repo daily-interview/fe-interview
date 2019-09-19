@@ -24,9 +24,9 @@
 
 >  传送门2：[ionic3自定义组件及常用例子](https://github.com/artdong/ionic3-awesome)
 
-## 今日面试题 —— 第42天 
+## 今日面试题 —— 第43天 
 
-- [react] [redux-saga有哪些优缺点？](https://github.com/daily-interview/fe-interview/issues/43)
+- [es6] [Proxy如何实现数据劫持、双向绑定？](https://github.com/daily-interview/fe-interview/issues/44)
 
 > 欢迎在 [**Issues**](https://github.com/daily-interview/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -54,8 +54,6 @@
 
 ......
 
-- [react] [setState到底是异步还是同步？](https://github.com/daily-interview/fe-interview/issues/38)
-
 - [react] [react组件通信如何实现?](https://github.com/daily-interview/fe-interview/issues/39)
 
 - [react] [redux的工作流程是怎样的?](https://github.com/daily-interview/fe-interview/issues/40)
@@ -63,6 +61,9 @@
 - [组件设计原则有哪些？](https://github.com/daily-interview/fe-interview/issues/41)
 
 - [react] [react如何实现组件预加载？](https://github.com/daily-interview/fe-interview/issues/42)
+
+- [react] [redux-saga有哪些优缺点？](https://github.com/daily-interview/fe-interview/issues/43)
+
 
 ---
 
