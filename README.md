@@ -24,9 +24,9 @@
 
 >  传送门2：[ionic3自定义组件及常用例子](https://github.com/artdong/ionic3-awesome)
 
-## 今日面试题 —— 第46天  react条件渲染的几种方式 
+## 今日面试题 —— 第47天 
 
-- [vue] [Vue的生命周期有哪些？](https://github.com/daily-interview/fe-interview/issues/47)
+- [vue] [vue组件通讯方式有哪些？](https://github.com/daily-interview/fe-interview/issues/48)
 
 > 欢迎在 [**Issues**](https://github.com/daily-interview/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -54,18 +54,15 @@
 
 ......
 
-
 - [组件设计原则有哪些？](https://github.com/daily-interview/fe-interview/issues/41)
 
 - [react] [react如何实现组件预加载？](https://github.com/daily-interview/fe-interview/issues/42)
 
-- [react] [redux-saga有哪些优缺点？](https://github.com/daily-interview/fe-interview/issues/43)
-
 - [es6] [Proxy如何实现数据劫持、双向绑定？](https://github.com/daily-interview/fe-interview/issues/44)
 
-- [react] [react之Fragments使用方法及使用场景](https://github.com/daily-interview/fe-interview/issues/45)
-
 - [react] [react条件渲染的几种方式](https://github.com/daily-interview/fe-interview/issues/46)
+
+- [vue] [Vue的生命周期有哪些？](https://github.com/daily-interview/fe-interview/issues/47)
 
 ---
 
