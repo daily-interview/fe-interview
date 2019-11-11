@@ -24,9 +24,9 @@
 
 >  传送门2：[ionic3自定义组件及常用例子](https://github.com/artdong/ionic3-awesome)
 
-## 今日面试题 —— 第47天 
+## 今日面试题 —— 第49天 
 
-- [vue] [vue组件通讯方式有哪些？](https://github.com/daily-interview/fe-interview/issues/48)
+- [ssr] [nuxt有哪些特性？为什么要用nuxt做服务端渲染？它解决了什么问题？](https://github.com/daily-interview/fe-interview/issues/49)
 
 > 欢迎在 [**Issues**](https://github.com/daily-interview/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -62,7 +62,7 @@
 
 - [react] [react条件渲染的几种方式](https://github.com/daily-interview/fe-interview/issues/46)
 
-- [vue] [Vue的生命周期有哪些？](https://github.com/daily-interview/fe-interview/issues/47)
+- [vue] [vue组件通讯方式有哪些？](https://github.com/daily-interview/fe-interview/issues/48)
 
 ---
 
