@@ -24,9 +24,9 @@
 
 >  传送门2：[ionic3自定义组件及常用例子](https://github.com/artdong/ionic3-awesome)
 
-## 今日面试题 —— 第52天  
+## 今日面试题 —— 第53天  
 
-- [js] [手写实现一个合乎规范的Promise](https://github.com/daily-interview/fe-interview/issues/53)
+- [js] [requestAnimationFrame原理及兼容性封装](https://github.com/daily-interview/fe-interview/issues/54)
 
 > 欢迎在 [**Issues**](https://github.com/daily-interview/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -56,15 +56,13 @@
 
 - [组件设计原则有哪些？](https://github.com/daily-interview/fe-interview/issues/41)
 
-- [es6] [Proxy如何实现数据劫持、双向绑定？](https://github.com/daily-interview/fe-interview/issues/44)
-
-- [ssr] [nuxt有哪些特性？为什么要用nuxt做服务端渲染？它解决了什么问题？](https://github.com/daily-interview/fe-interview/issues/49)
-
 - [css] [CSS Sprites（雪碧图）原理及其优缺点](https://github.com/daily-interview/fe-interview/issues/50)
 
 - [js] [图片懒加载原理及如何实现](https://github.com/daily-interview/fe-interview/issues/51)
 
 - [js] [JS获取url参数的方法](https://github.com/daily-interview/fe-interview/issues/52)
+
+- [js] [手写实现一个合乎规范的Promise](https://github.com/daily-interview/fe-interview/issues/53)
 
 ---
 
