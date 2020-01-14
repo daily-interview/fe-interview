@@ -66,6 +66,14 @@
 
 ---
 
+#### 常用工具网站
+
+`浏览器兼容性查询`：https://caniuse.com
+
+`url编码解码`：https://tool.oschina.net/encode?type=4
+
+`json格式化/校验`：http://www.bejson.com
+
 #### 欢迎关注微信公众号`全栈弄潮儿` ，获取更多学习资源及技术文章等
 
 * 微信公众号二维码，扫一扫或者搜索"全栈弄潮儿"即可关注
