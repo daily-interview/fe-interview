@@ -29,9 +29,9 @@
 >  传送门4：[一步一步实现Promise，符合Promises/A+ 规范](https://github.com/artdong/promise)
 
 
-## 今日面试题 —— 第54天  
+## 今日面试题 —— 第54天 
 
-- [webpack优化] [用过HappyPack吗？HappyPack有什么优点?](https://github.com/daily-interview/fe-interview/issues/55)
+- [eslint] [eslint忽略全局变量的方法](https://github.com/daily-interview/fe-interview/issues/56)
 
 > 欢迎在 [**Issues**](https://github.com/daily-interview/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -68,6 +68,9 @@
 - [js] [手写实现一个合乎规范的Promise](https://github.com/daily-interview/fe-interview/issues/53)
 
 - [js] [requestAnimationFrame原理及兼容性封装](https://github.com/daily-interview/fe-interview/issues/54)
+
+- [webpack优化] [用过HappyPack吗？HappyPack有什么优点?](https://github.com/daily-interview/fe-interview/issues/55)
+
 ---
 
 #### 常用工具网站
