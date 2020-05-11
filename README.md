@@ -29,9 +29,9 @@
 >  传送门4：[一步一步实现Promise，符合Promises/A+ 规范](https://github.com/artdong/promise)
 
 
-## 今日面试题 —— 第57天 
+## 今日面试题 —— 第58天 
 
-- [webpack配置] [webpack添加路径别名后，vscode不能智能提示，如何解决？](https://github.com/daily-interview/fe-interview/issues/58)
+- [js] [如何只用两行代码实现判断js中所有数据类型?](https://github.com/daily-interview/fe-interview/issues/59)
 
 > 欢迎在 [**Issues**](https://github.com/daily-interview/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -74,6 +74,8 @@
 - [eslint] [eslint忽略全局变量的方法](https://github.com/daily-interview/fe-interview/issues/56)
 
 - [webpack配置] [webpack配置路径别名](https://github.com/daily-interview/fe-interview/issues/57)
+
+- [webpack配置] [webpack添加路径别名后，vscode不能智能提示，如何解决？](https://github.com/daily-interview/fe-interview/issues/58)
 
 ---
 
