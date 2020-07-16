@@ -29,9 +29,10 @@
 >  传送门4：[一步一步实现Promise，符合Promises/A+ 规范](https://github.com/artdong/promise)
 
 
-## 今日面试题 —— 第61天  
+## 今日面试题 —— 第62天  
 
-- [js] [js中精度问题及解决方案](https://github.com/daily-interview/fe-interview/issues/62)
+- [js] [webpack之less-loader、css-loader、style-loader执行顺序
+](https://github.com/daily-interview/fe-interview/issues/63)
 
 > 欢迎在 [**Issues**](https://github.com/daily-interview/fe-interview/issues) 和朋友们一同讨论学习！
 
