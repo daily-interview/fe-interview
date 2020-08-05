@@ -1,6 +1,6 @@
 # fe-interview
 
-[![mnt-image](https://img.shields.io/maintenance/yes/2019.svg)](../../commits/master)
+[![mnt-image](https://img.shields.io/maintenance/yes/2020.svg)](../../commits/master)
 [![GitHub stars](https://img.shields.io/github/stars/daily-interview/fe-interview.svg)](https://github.com/daily-interview/fe-interview/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/daily-interview/fe-interview.svg)](https://github.com/daily-interview/fe-interview/network)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/daily-interview/fe-interview/blob/master/LICENSE)
@@ -24,9 +24,15 @@
 
 >  传送门2：[ionic3自定义组件及常用例子](https://github.com/artdong/ionic3-awesome)
 
-## 今日面试题 —— 第34天   
+>  传送门3：[react-org-tree组织树组件](https://github.com/artdong/react-org-tree)
 
-- [js] [如何让const定义的对象真正不可修改？](https://github.com/daily-interview/fe-interview/issues/34)
+>  传送门4：[一步一步实现Promise，符合Promises/A+ 规范](https://github.com/artdong/promise)
+
+
+## 今日面试题 —— 第64天  
+
+- [js] [js实现普通数组去重&json数组去重
+](https://github.com/daily-interview/fe-interview/issues/65)
 
 > 欢迎在 [**Issues**](https://github.com/daily-interview/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -54,17 +60,33 @@
 
 ......
 
-- [js] [js垃圾回收机制与如何手动进行垃圾回收释放内存？](https://github.com/daily-interview/fe-interview/issues/29)
+- [js] [图片懒加载原理及如何实现](https://github.com/daily-interview/fe-interview/issues/51)
 
-- [js] [谈谈你对原型链的理解？](https://github.com/daily-interview/fe-interview/issues/30)
+- [js] [JS获取url参数的方法](https://github.com/daily-interview/fe-interview/issues/52)
 
-- [js] [如何判断是否是数组？](https://github.com/daily-interview/fe-interview/issues/31)
+- [js] [手写实现一个合乎规范的Promise](https://github.com/daily-interview/fe-interview/issues/53)
 
-- [js] [let和var在for循环中有什么不同？](https://github.com/daily-interview/fe-interview/issues/32)
+- [js] [requestAnimationFrame原理及兼容性封装](https://github.com/daily-interview/fe-interview/issues/54)
 
-- [h5] [href="javascript:;"与href="#"有什么不同？](https://github.com/daily-interview/fe-interview/issues/33)
+- [webpack优化] [用过HappyPack吗？HappyPack有什么优点?](https://github.com/daily-interview/fe-interview/issues/55)
+
+- [webpack配置] [webpack配置路径别名](https://github.com/daily-interview/fe-interview/issues/57)
+
+- [webpack配置] [webpack添加路径别名后，vscode不能智能提示，如何解决？](https://github.com/daily-interview/fe-interview/issues/58)
+
+- [js] [如何只用两行代码实现判断js中所有数据类型?](https://github.com/daily-interview/fe-interview/issues/59)
+
+- [js] [不用window.open打开新窗口](https://github.com/daily-interview/fe-interview/issues/60)
 
 ---
+
+#### 常用工具网站
+
+`浏览器兼容性查询`：https://caniuse.com
+
+`url编码解码`：https://tool.oschina.net/encode?type=4
+
+`json格式化/校验`：http://www.bejson.com
 
 #### 欢迎关注微信公众号`全栈弄潮儿` ，获取更多学习资源及技术文章等
 
