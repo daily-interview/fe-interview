@@ -93,5 +93,12 @@
 * 微信公众号二维码，扫一扫或者搜索"全栈弄潮儿"即可关注
 
 <p align='center'>
-<img src='https://upload-images.jianshu.io/upload_images/3100736-b722d7d753e6eaf9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240' width='280' alt='Build errors'>
+  <img src="https://gitee.com/artdong/vue-admin/raw/master/assets/images/qr_gh.jpg" width="260px" style="display:inline;">
+</p>
+
+#### 请作者喝一杯咖啡
+
+<p align='center'>
+  <a href="https://www.buymeacoffee.com/artd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-violet.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" >
+  </a>
 </p>
