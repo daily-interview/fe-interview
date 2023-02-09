@@ -1,6 +1,6 @@
 # fe-interview
 
-[![mnt-image](https://img.shields.io/maintenance/yes/2022.svg)](../../commits/master)
+[![mnt-image](https://img.shields.io/maintenance/yes/2023.svg)](../../commits/master)
 [![GitHub stars](https://img.shields.io/github/stars/daily-interview/fe-interview.svg)](https://github.com/daily-interview/fe-interview/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/daily-interview/fe-interview.svg)](https://github.com/daily-interview/fe-interview/network)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/daily-interview/fe-interview/blob/master/LICENSE)
